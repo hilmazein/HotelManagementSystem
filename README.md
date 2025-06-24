@@ -1,4 +1,5 @@
 Interface
 
-![image](https://github.com/user-attachments/assets/322ecf37-36dc-479b-97a3-586d516f2a9f)
-![image](https://github.com/user-attachments/assets/f6926568-c925-4a7b-91ef-caf6b4a59242)
+![image](https://github.com/user-attachments/assets/16dc0bfd-f6eb-46c1-90bd-f7c26f34d79c)
+![image](https://github.com/user-attachments/assets/973465de-0bb1-40d0-9a35-1d890d89da4a)
+![image](https://github.com/user-attachments/assets/b8ebe5b7-7000-4121-b6b4-8e3d8221f409)
